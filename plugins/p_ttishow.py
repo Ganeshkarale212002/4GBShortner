@@ -54,9 +54,9 @@ async def save_group(bot, message):
                     except:
                         pass
                 temp.MELCOW['welcome'] = await message.reply_video(
-                video="https://te.legra.ph/file/521122a3307670a2aa571.gif",                                               
-                                                 caption=f'<i>🧤</i><i><b>Helo, </b>{u.mention}</i><b><i>, Welcome To </i></b><a href="https://telegram.me/Heroflix"><b><i>HEROFLiX • GROUP</i></b></a> <i><b>亗</b> \n 📚You Can Request Any Movies, Series, Animation etc., here</i>',
-                                                 reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('❓How To Download❓', url='https://t.me/HEROFLiX/1201') ] ] )
+                video="https://te.legra.ph/file/c020b7f51649939c71f5d.mp4",                                               
+                                                 caption=f'<i>🧤</i><i><b>Helo, </b>{u.mention}</i><b><i>, Welcome To </i></b><a href="https://telegram.me/FHDmovies24x7"><b><i>FHDmovies24x7 • GROUP</i></b></a> <i><b>亗</b> \n 📚You Can Request Any Movies, Series, Animation etc., here</i>',
+                                                 reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('❓How To Download❓', url='https://t.me/FHDmovies24x7Official/3415') ] ] )
                 )
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
