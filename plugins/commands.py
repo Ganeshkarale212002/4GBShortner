@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🎗️ Updates', url='https://telegram.me/HeroFlix')
+                InlineKeyboardButton('🎗️ Updates', url='https://telegram.me/FHDmovies24x7official')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://telegram.me/{temp.U_NAME}?start=help"),
@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Group ➕', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🚩 Group', url='https://telegram.me/+Ap6E_6ZzVaY3MTNl'),
-            InlineKeyboardButton('🤖 Updates', url='https://telegram.me/HeroFlix')
+            InlineKeyboardButton('🚩 Group', url='https://telegram.me/FHDmovies24x7'),
+            InlineKeyboardButton('🤖 Updates', url='https://telegram.me/FHDmovies24x7official')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('🕹 Repo', callback_data='about')
@@ -90,8 +90,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Group ➕', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🚩 Group', url='https://telegram.me/+Ap6E_6ZzVaY3MTNl'),
-            InlineKeyboardButton('🤖 Updates', url='https://telegram.me/HeroFlix')
+            InlineKeyboardButton('🚩 Group', url='https://telegram.me/FHDmovies24x7'),
+            InlineKeyboardButton('🤖 Updates', url='https://telegram.me/FHDmovies24x7Official')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('🕹 Repo', callback_data='about')
@@ -244,7 +244,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🔆彡[ @HEROFLiX ]彡🔆', url='https://telegram.me/HeroFlix') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🔆彡[ @FHDmovies24x7 ]彡🔆', url='https://telegram.me/FHDmovies24x7') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
