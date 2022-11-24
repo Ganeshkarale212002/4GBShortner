@@ -18,12 +18,12 @@ Here Is The Help For My Commands"""
 
 🔅 Want An </i><i><b>'AutoFilter + UrlShortner Bot'</b> Like Me For Your Group &amp; Earn Money Using It?
 
-📲 </i><i><b>Contact »</b> </i><i>@MrKrazyBot</i>"""    
+📲 </i><i><b>Contact »</b> </i><i>@Butcher_V1_Bot</i>"""    
     SOURCE_TXT = """<i><b><u>AutoFilter + UrlShortner Bot</u></b>
 
 🔅 Want An </i><i><b>'AutoFilter + UrlShortner Bot'</b> Like Me For Your Group &amp; Earn Money Using It?
 
-📲 </i><i><b>Contact »</b> </i><i>@MrKrazyBot</i>"""    
+📲 </i><i><b>Contact »</b> </i><i>@Butcher_V1_Bot</i>"""    
     MANUELFILTER_TXT = """Help: <b>FILTERS »</b>
 
 » <b>Filter is A Feature Where Users can Set Automated Reply to a Specific Word</b>
@@ -48,7 +48,7 @@ Here Is The Help For My Commands"""
 3. <i>Buttons should be properly parsed as markdown format</i>
 
 <b>URL Buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/HeroFlixbot)</code>
+<code>[Button Text](buttonurl:https://t.me/Mortal_V1_bot)</code>
 
 <b>Alert Buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
