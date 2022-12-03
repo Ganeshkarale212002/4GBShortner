@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('🤖 Updates', url='https://telegram.me/FHDmovies24x7official')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('🕹 Repo', callback_data='about')
+            InlineKeyboardButton('💎 Get VIP', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -94,7 +94,7 @@ async def start(client, message):
             InlineKeyboardButton('🤖 Updates', url='https://telegram.me/FHDmovies24x7Official')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('🕹 Repo', callback_data='about')
+            InlineKeyboardButton('💎 Get VIP', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
