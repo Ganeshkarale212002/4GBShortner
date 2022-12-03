@@ -14,14 +14,14 @@ class script(object):
     START_TXT = """<b>🧤Helo {}, I'm <a href=https://telegram.me/{}>{}</a> &amp; I Can Provide You Any Movies &amp; Series</b> 😇"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here Is The Help For My Commands"""
-    ABOUT_TXT = """<i><b><u>AutoFilter + UrlShortner Bot</u></b>
+    ABOUT_TXT = """<i><b><u>VIP MEMBERSHIP 💎</u></b>
 
-🔅 Want An </i><i><b>'AutoFilter + UrlShortner Bot'</b> Like Me For Your Group &amp; Earn Money Using It?
+🔅 Want An </i><i><b>'VIP MEMBERSHIP 💎'</b> For Only ₹25/- Per Month & You Will Be Given 'VIP Access' to » M.O.R.T.Λ.L « & You Will Get All Movies, Series Files Directly Without Any Links Or Ads
 
 📲 </i><i><b>Contact »</b> </i><i>@Butcher_V1_Bot</i>"""    
-    SOURCE_TXT = """<i><b><u>AutoFilter + UrlShortner Bot</u></b>
+    SOURCE_TXT = """<i><b><u>VIP MEMBERSHIP 💎</u></b>
 
-🔅 Want An </i><i><b>'AutoFilter + UrlShortner Bot'</b> Like Me For Your Group &amp; Earn Money Using It?
+🔅 Want An </i><i><b>'VIP MEMBERSHIP 💎'</b> For Only ₹25/- Per Month & You Will Be Given 'VIP Access' to » M.O.R.T.Λ.L « & You Will Get All Movies, Series Files Directly Without Any Links Or Ads
 
 📲 </i><i><b>Contact »</b> </i><i>@Butcher_V1_Bot</i>"""    
     MANUELFILTER_TXT = """Help: <b>FILTERS »</b>
